@@ -23,10 +23,5 @@ GitHub is a *great, user-friendly* way to implement git, and I am looking forwar
 
 > This is a blockquote example.
 
-```python
-# Code block example
-print("Hello, GitHub Classroom!")
-
-# Algorithms Dashboard Screenshot
 
 ![](screenshot.png)
